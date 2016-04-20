@@ -1,0 +1,8 @@
+TODO
+----
+    # should give the solution of a sudoku puzzle
+    ----------------------------------------------
+    * need a 3*3 checker,9*9 checker
+    * a random number generator to play.(until AI starts)
+    
+
